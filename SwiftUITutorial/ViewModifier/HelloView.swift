@@ -13,7 +13,7 @@ struct HelloView: View {
             Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
                 .titleStyle()
             
-            Text("Hello, World! 2")
+            Text("Hello, World! 2 asaddasdasdadsadsa")
                 .modifier(AppTitle(isShadowHeight: true))
         } // VStack
     }
